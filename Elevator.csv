@@ -1,0 +1,62 @@
+Hall,Time of Day,Gender,Additional Bags,Wait Time,Group
+Few,Morning,F,No ,10.0,Treatment
+Few ,Morning,F,Yes,6.5,Control
+Few ,Morning,M,No ,10.0,Treatment
+Few ,Morning,M,No ,2.0,Control
+Few ,Morning,F,No ,8.3,Treatment
+Few ,Morning,M,No ,8.0,Control
+Few ,Morning,F,No ,10.0,Treatment
+Few ,Morning,F,No ,10.0,Control
+Few ,Morning,F,No ,5.3,Treatment
+Evans ,Morning,F,Yes,7.5,Control
+Evans ,Morning,F,Yes,6.0,Treatment
+Evans ,Morning,M,No ,10.0,Control
+Evans ,Noon,F,No ,6.2,Treatment
+Evans ,Noon,M,No ,10.0,Control
+Evans ,Noon,M,No ,4.8,Treatment
+Evans ,Noon,M,No ,10.0,Control
+Evans ,Noon,F,No ,3.0,Treatment
+Evans ,Noon,M,No ,3.0,Control
+Evans ,Noon,F,No ,7.5,Treatment
+Few ,Noon,M,No ,9.3,Control
+Few ,Noon,F,No ,8.0,Treatment
+Few ,Noon,F,No ,1.0,Control
+Few ,Noon,F,No ,10.0,Treatment
+Few ,Noon,M,No ,7.8,Control
+Few ,Noon,F,No ,7.0,Treatment
+Evans ,Night,M,No ,10.0,Control
+Evans ,Night,M,Yes,10.0,Treatment
+Evans ,Night,M,No ,6.0,Control
+Evans ,Night,F,No ,3.5,Treatment
+Evans ,Night,M,No ,8.0,Control
+Evans ,Night,M,No ,8.2,Treatment
+Evans ,Night,M,No ,2.5,Control
+Evans ,Night,M,No ,9.0,Treatment
+Evans ,Night,F,No ,9.0,Control
+Evans ,Night,M,No ,9.3,Treatment
+Evans ,Night,F,No ,10.0,Control
+Evans ,Night,F,No ,7.0,Treatment
+Evans ,Night,M,No ,2.8,Control
+Evans ,Night,M,No ,7.5,Treatment
+Evans ,Night,F,No ,10.0,Control
+Evans ,Night,F,No ,10.0,Treatment
+Evans ,Night,M,No ,1.8,Control
+Evans ,Night,M,No ,10.0,Treatment
+Evans ,Night,F,No ,8.0,Control
+Evans ,Night,M,No ,5.8,Treatment
+Evans ,Night,M,No ,3.0,Control
+Evans ,Night,M,Yes,9.5,Treatment
+Evans ,Night,M,No ,2.0,Control
+Evans ,Night,F,No ,1.0,Treatment
+Evans ,Night,F,No ,8.8,Control
+Evans ,Night,M,No ,7.8,Treatment
+Evans ,Night,M,No ,10.0,Control
+Evans ,Night,M,No ,10.0,Treatment
+Evans ,Night,M,No ,10.0,Control
+Evans ,Night,M,No ,5.5,Treatment
+Evans ,Night,F,No ,3.8,Control
+Evans ,Night,F,No ,9.0,Treatment
+Evans ,Night,M,No ,6.0,Control
+Evans ,Night,F,No ,4.3,Treatment
+Evans ,Night,F,No ,6.8,Control
+Evans ,Night,F,No ,9.5,Treatment
